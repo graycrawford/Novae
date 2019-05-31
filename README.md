@@ -13,4 +13,7 @@ Novae 3 uses only the right hand.
 
 
 
+(perhaps requires the Leap MultiDeivce service) https://github.com/leapmotion/UnityModules/tree/feat-multi-device/Multidevice%20Service
+
+
 ![novae](https://raw.githubusercontent.com/graycrawford/Novae/master/misc/novae%20image.png)
