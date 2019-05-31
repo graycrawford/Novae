@@ -1,7 +1,9 @@
 # Novae
 
 A series of VR particle experiences using Unity's Visual Effect Graph.
+
 First shown https://twitter.com/graycrawford/status/1118939118875107329
+
 Requires a Leap Motion and Oculus Rift.
 
 
