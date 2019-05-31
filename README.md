@@ -1,6 +1,6 @@
 # Novae
 
-#VR particle experiences
+VR particle experiences
 
 A series of VR particle experiences using Unity's Visual Effect Graph.
 Requires a Leap Motion and Oculus Rift.
